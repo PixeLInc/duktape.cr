@@ -1,0 +1,8 @@
+require "../lib_duktape"
+require "./support/*"
+require "./log"
+require "./builtin/base"
+require "./context"
+require "./error"
+require "./sandbox"
+require "./version"
